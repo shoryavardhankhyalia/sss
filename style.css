@@ -1,0 +1,68 @@
+body
+{
+background-image: linear-gradient(to right top, #5ff133, #34d925, #1882c1, #dd1919, #ff0404);
+}
+#goback
+{
+   width: 133px; height:40px; font-weight:bolder; background-color:#0004ff; border-width:0px; font-size: larger; color:rgb(255, 255, 255);
+}
+#bar
+{
+   width: 1200px; height:40px; font-weight:bolder; background-color:#0004ff; border-width:0px; font-size: larger; color:rgb(255, 255, 255);
+}
+#topbar
+{
+   width: 1330px; height:40px; font-weight:bolder; background-color:#0004ff; border-width:0px; font-size: larger; color:rgb(255, 255, 255);
+}
+#chapter1
+{
+   width:1330px; height:40px; font-weight:bolder; background-color: #ffffff; border-width:4px; border-radius:15ch; 
+}
+#chapter2
+{
+   width:1330px; height:40px; background-color: #ffffff; font-weight:bolder; border-width:4px; border-radius:15ch;
+}
+#chapter3
+{
+   width:1330px; height:40px; background-color: #ffffff; font-weight:bolder; border-width:4px; border-radius:15ch;
+}
+#chapter4
+{
+   width:1330px; height:40px; background-color: #ffffff; font-weight:bolder; border-width:4px; border-radius:15ch;
+}
+#chapter5
+{
+   width:1330px; height:40px; background-color: #ffffff; font-weight:bolder; border-width:4px; border-radius:15ch;
+}
+#chapter6
+{
+   width:1330px; height:40px; background-color: #ffffff; font-weight:bolder; border-width:4px; border-radius:15ch;
+}
+#chapter7
+{
+   width:1330px; height:40px; background-color: #ffffff; font-weight:bolder; border-width:4px; border-radius:15ch;
+}
+#chapter8
+{
+   width:1330px; height:40px; background-color: #ffffff; font-weight:bolder; border-width:4px; border-radius:15ch;
+}
+#chapter9
+{
+   width:1330px; height:40px; background-color: #ffffff; font-weight:bolder; border-width:4px; border-radius:15ch;
+}
+#chapter10
+{
+   width:1330px; height:40px; background-color: #ffffff; font-weight:bolder; border-width:4px; border-radius:15ch;
+}
+#chapter11
+{
+   width:1330px; height:40px; background-color: #ffffff; font-weight:bolder; border-width:4px; border-radius:15ch;
+}
+#chapter12
+{
+   width:1330px; height:40px; background-color: #ffffff; font-weight:bolder; border-width:4px; border-radius:15ch;
+}
+#chapter13
+{
+   width:1330px; height:40px; background-color: #ffffff; font-weight:bolder; border-width:4px; border-radius:15ch;
+}
